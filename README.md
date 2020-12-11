@@ -1,2 +1,2 @@
-# Binary-search
+#Search
 searching for a number in a list
